@@ -1,0 +1,14 @@
+ mail 2:Internship enquiry
+
+Subject: Internship Inquiry: Summer 2026 - Prasoon Yadav- B.Tech CSE Student 
+
+Dear Internship Coordinator, 
+
+I am a first-year Computer Science Engineering student at VIT Bhopal University, and I am writing to express my strong interest in a summer internship opportunity with open AI.
+I have been actively developing my skills in Python and Data Science, with a particular focus on machine learning libraries like NumPy and Pandas. I am eager to apply my technical knowledge in a professional environment and contribute to your team's ongoing projects.
+
+Attached is my resume for your review. I would welcome the opportunity to discuss how my background aligns with your needs. 
+
+Best regards, 
+Prasoon Yadav
+https://github.com/prasoon25bai10821-hue}
